@@ -1,4 +1,6 @@
 # Remove rows with missing values
+import pandas as pd
+
 avocados_complete = avocados_2016.dropna()
 
 # Check if any columns contain missing values
