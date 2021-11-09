@@ -1,5 +1,6 @@
 # Import matplotlib.pyplot with alias plt
 import matplotlib.pyplot as plt
+impor pandas as pd
 
 # Get the total number of avocados sold on each date
 nb_sold_by_date = avocados.groupby("date")["nb_sold"].sum()
