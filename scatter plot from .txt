@@ -1,4 +1,7 @@
 import matplotlib.pyplot as plt
+import numpy as np
+
+
 # Assign filename: file
 file = 'seaslug.txt'
 
